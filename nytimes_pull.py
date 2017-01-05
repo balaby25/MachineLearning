@@ -28,6 +28,6 @@ def main(api_key, category, label):
     f.close ()
 
 if __name__ == '__main__':
-    main("0f8b796919ee4e9ab96874776d9a6bec", "Arts", "Balarts.txt")
-    main("0f8b796919ee4e9ab96874776d9a6bec", "Sports", "BalaSports.txt")
+    main("0f8b796919ee4e9ab96874776d9a6bec", "Arts", "Balarts.json")
+    main("0f8b796919ee4e9ab96874776d9a6bec", "Sports", "BalaSports.json")
 #        main("0f8b796919ee4e9ab96874776d9a6bec", "Sports", "BalaSports")
